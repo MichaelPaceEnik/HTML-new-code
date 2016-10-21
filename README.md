@@ -25,3 +25,23 @@ Okay here is my code........
 </ol>
 </body>
 </html>  
+
+Day 2: This part is a joke but i'll add some good stuff here too..
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hey whats up guys its scarce here</title>
+</head>
+<body>
+<h1> Hey whats up guys its scarce here</h1>
+<a target="_blank" href="https://img.ifcdn.com/images/12292c8861270851c77c13014f431896287c26ded5269e3c752fc22bcfb74445_1.jpg">Dank Meme</a>
+<p>Hey guys its me again and today we’re bringing you some of the dankest and freshest memes of all land before time…</p>
+<a target="_blank" href="http://ci.memecdn.com/821/6760821.gif">Dank Ultra Rare YEE Appeared</a>
+<ol>
+<li>YEE</li>
+<li>WhAT aRe THOOOOoooOSEEEE</li>
+<li> FresHAVACODO</li>
+</ol>
+</body>
+</html>
